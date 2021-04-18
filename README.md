@@ -5,6 +5,9 @@ The Tic-Tac-Toe Soldering Kit is a way to learn to through-hole solder a wide va
 
 When no longer needed, the 328P can be harvested and re-used in another project.
 
+## Photos & Media
+Photos of the project can be found on my portfolio, [here](https://www.jim-heaney.com/tic-tac-toe-soldering-kit.html).
+
 ## Current Release
 Version 1.3
 
